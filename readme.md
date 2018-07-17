@@ -1,10 +1,14 @@
-## sicp - study progress 
+## sicp 
 
 <br>
 
 #### My study notes and exercises
 
 I am reading the book of **Structure and Interpretation of Computer Preograms**. Here are my study notes and exercises.
+
+
+
+<br>
 
 
 
